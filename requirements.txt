@@ -1,0 +1,201 @@
+# ==========================================
+# AZURE SERVICES
+# ==========================================
+azure-common
+azure-core
+azure-cosmos
+azure-functions
+azure-identity
+azure-keyvault-secrets
+azure-search-documents
+azure-storage-blob
+msrest
+# ==========================================
+# WEB FRAMEWORKS & SERVERS
+# ==========================================
+asgiref
+fastapi
+flask
+gunicorn
+starlette
+uvicorn
+werkzeug
+# ==========================================
+# DATABASE & DATA STORAGE
+# ==========================================
+pyodbc
+psycopg2-binary
+redis
+sqlalchemy
+# ==========================================
+# DATA PROCESSING & ANALYTICS
+# ==========================================
+numpy
+pandas
+scipy
+pyarrow
+torch
+tensorflow
+spacy
+# ==========================================
+# AI & LANGUAGE MODELS
+# ==========================================
+langchain
+langchain-core
+langsmith
+openai
+tiktoken
+# ==========================================
+# HTTP CLIENTS & NETWORKING
+# ==========================================
+aiohttp
+httpcore
+httptools
+httpx
+requests
+requests-oauthlib
+requests-toolbelt
+urllib3
+websockets
+# ==========================================
+# AUTHENTICATION & SECURITY
+# ==========================================
+cryptography
+google-auth
+msal
+msal-extensions
+oauthlib
+pyjwt
+# ==========================================
+# DATA VALIDATION & TYPE CHECKING
+# ==========================================
+annotated-types
+pydantic
+pydantic-core
+pydantic-settings
+typing-extensions
+typing-inspection
+# ==========================================
+# DATA SERIALIZATION & FILE FORMATS
+# ==========================================
+et-xmlfile
+lxml
+openpyxl
+protobuf
+proto-plus
+pyyaml
+# ==========================================
+# JSON PROCESSING
+# ==========================================
+jsonpatch
+jsonpointer
+jsonschema
+jsonschema-specifications
+orjson
+# ==========================================
+# TEMPLATE ENGINES
+# ==========================================
+jinja2
+markupsafe
+# ==========================================
+# WEB SCRAPING & PARSING
+# ==========================================
+beautifulsoup4
+soupsieve
+# ==========================================
+# DATE & TIME UTILITIES
+# ==========================================
+isodate
+python-dateutil
+pytz
+tzdata
+# ==========================================
+# OBSERVABILITY & MONITORING
+# ==========================================
+opentelemetry-api
+opentelemetry-instrumentation
+opentelemetry-sdk
+opentelemetry-semantic-conventions
+# ==========================================
+# TESTING & QUALITY ASSURANCE
+# ==========================================
+iniconfig
+pluggy
+pytest
+# ==========================================
+# ENVIRONMENT & CONFIGURATION
+# ==========================================
+python-dotenv
+python-multipart
+# ==========================================
+# CLI & TERMINAL UTILITIES
+# ==========================================
+click
+colorama
+markdown-it-py
+mdurl
+pygments
+rich
+tqdm
+# ==========================================
+# ASYNC & CONCURRENCY
+# ==========================================
+aiohappyeyeballs
+aiosignal
+anyio
+dnspython
+greenlet
+uvloop
+watchfiles
+# ==========================================
+# COMPRESSION
+# ==========================================
+zstandard
+# ==========================================
+# GOOGLE APIS
+# ==========================================
+google-api-core
+googleapis-common-protos
+# ==========================================
+# LOW-LEVEL DEPENDENCIES & CORE LIBRARIES
+# ==========================================
+annotated-doc
+attrs
+blinker
+cachetools
+certifi
+cffi
+charset-normalizer
+charset_normalizer
+distro
+exceptiongroup
+filelock
+frozenlist
+h11
+idna
+importlib-metadata
+itsdangerous
+jiter
+marshmallow
+multidict
+mypy-extensions
+packaging
+pillow
+platformdirs
+propcache
+psutil
+pyasn1
+pyasn1-modules
+pycparser
+pyparsing
+referencing
+regex
+rpds-py
+rsa
+setuptools
+six
+sniffio
+tenacity
+wrapt
+yarl
+zipp
