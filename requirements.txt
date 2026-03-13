@@ -35,7 +35,6 @@ pandas
 scipy
 pyarrow
 torch
-tensorflow
 spacy
 # ==========================================
 # AI & LANGUAGE MODELS
