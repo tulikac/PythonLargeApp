@@ -1,0 +1,14 @@
+applications:
+  # The app's name, which must be unique within the project.
+  myapp:
+    type: 'python:3.14'
+    dependencies:
+      python3:
+        pipenv: "2024.4.1"
+    hooks:
+      build: |
+        set -eu
+        pipenv install --system --deploy
+    web:
+      commands:
+        start: "gunicorn app:app --bind 0.0.0.0:8080"
