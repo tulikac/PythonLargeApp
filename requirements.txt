@@ -34,7 +34,6 @@ numpy
 pandas
 scipy
 pyarrow
-tensorflow
 torch
 spacy
 # ==========================================
